@@ -1,4 +1,4 @@
-package com.example.test.insuranceapi.insuranceapi;
+package com.example.test.insuranceapi;
 
 // 1. นำเข้าเครื่องมือสำหรับจัดการ Database (JPA)
 import jakarta.persistence.Entity;

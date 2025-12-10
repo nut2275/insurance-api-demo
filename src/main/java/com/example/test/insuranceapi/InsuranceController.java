@@ -1,9 +1,10 @@
-package com.example.test.insuranceapi.insuranceapi;
+package com.example.test.insuranceapi;
 
 // 1. นำเข้าตัวช่วยเรื่อง Dependency Injection (การเชื่อมต่อของอัตโนมัติ)
 import org.springframework.beans.factory.annotation.Autowired;
 // 2. นำเข้าเครื่องมือสร้าง REST API ทั้งหมด
 import org.springframework.web.bind.annotation.*;
+
 import java.util.List;
 
 // ของ import org.springframework.web.bind.annotation.*;

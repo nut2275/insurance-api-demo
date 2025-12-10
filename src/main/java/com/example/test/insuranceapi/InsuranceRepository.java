@@ -1,4 +1,4 @@
-package com.example.test.insuranceapi.insuranceapi;
+package com.example.test.insuranceapi;
 
 // 1. นำเข้าคลาสแม่ที่เป็นต้นแบบการติดต่อ Database
 import org.springframework.data.jpa.repository.JpaRepository;
