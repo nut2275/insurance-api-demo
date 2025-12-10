@@ -11,7 +11,7 @@ import java.util.List;
 @RequestMapping("/api/insurances")
 
 public class InsuranceController {
-    @Autowired 
+    @Autowired // เชื่อมต่อกับ Repository อัตโนมัติ (Spring จัดการให้ ไม่ต้อง new เอง)
     private InsuranceRepository insuranceRepository;
 
     @GetMapping

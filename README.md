@@ -33,3 +33,13 @@ Micro-service สำหรับจัดการข้อมูลประก
     "price": 25000.00,
     "type": "Car Insurance"
 }
+
+## 📸 API Testing Results (Postman Evidence)
+หลักฐานการทดสอบการทำงานของ API ครบทุกฟังก์ชัน (CRUD):
+
+| Operation | Screenshot |
+| :--- | :--- |
+| **1. Create Data (POST)** | ![Create](screenshots/1_Add1.png) |
+| **2. Read All (GET)** | ![Find All](screenshots/3_FindAll.png) |
+| **3. Update (PUT)** | ![Update](screenshots/5_Update.png) |
+| **4. Delete (DELETE)** | ![Delete](screenshots/7_DeleteByID.png) |
