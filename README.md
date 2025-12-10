@@ -39,7 +39,7 @@ Micro-service สำหรับจัดการข้อมูลประก
 
 | Operation | Screenshot |
 | :--- | :--- |
-| **1. Create Data (POST)** | ![Create](screenshots/1_Add1.png) |
-| **2. Read All (GET)** | ![Find All](screenshots/3_FindAll.png) |
-| **3. Update (PUT)** | ![Update](screenshots/5_Update.png) |
-| **4. Delete (DELETE)** | ![Delete](screenshots/7_DeleteByID.png) |
+| **1. Create Data (POST)** | ![Create](Result Postman/1_Add1.png) |
+| **2. Read All (GET)** | ![Find All](Result Postman/3_FindAll.png) |
+| **3. Update (PUT)** | ![Update](Result Postman/5_Update.png) |
+| **4. Delete (DELETE)** | ![Delete](Result Postman/7_DeleteByID.png) |
